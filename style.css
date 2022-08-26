@@ -1,0 +1,47 @@
+.portfolio-photo {
+    border-radius: 4rem;
+    /* margin-left: 2rem; */
+}
+/* .dummy-header {
+    height: 72px;
+} */
+/* .summary {
+    margin-right: 2rem;
+} */
+/* body::before {
+    display: block;
+    content: '';
+    height: 72px;
+} */
+/* nav {
+    margin-bottom: 70px;
+} */
+
+p {
+    font-weight: 300;
+}
+
+section:before {
+    display: block;
+    content:" ";
+    height: 50px;
+
+    visibility: hidden;
+}
+
+/* body {
+    padding-top: 72px;
+} */
+
+/* #about {
+    
+    padding-top: 115px;
+} */
+
+/* #skills {
+    padding-bottom: 68px;
+}  */
+/* #mindset {
+    margin-top: -70px;
+    padding-top: 115px;
+} */
