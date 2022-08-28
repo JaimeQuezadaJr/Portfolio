@@ -1,7 +1,4 @@
-.portfolio-photo {
-    border-radius: 4rem;
-    /* margin-left: 2rem; */
-}
+/* .portfolio-photo {border-radius: 4rem;} */
 /* .dummy-header {
     height: 72px;
 } */
@@ -17,17 +14,15 @@
     margin-bottom: 70px;
 } */
 
-p {
-    font-weight: 300;
-}
+/* p {font-weight: 300;} */
 
-section:before {
+/* section:before {
     display: block;
     content:" ";
     height: 50px;
 
     visibility: hidden;
-}
+} */
 
 /* body {
     padding-top: 72px;
